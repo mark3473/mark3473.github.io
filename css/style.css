@@ -43,7 +43,7 @@ img {
 
 .main-nav a {
   color: #fff;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: #000;
 }
 
@@ -209,7 +209,7 @@ aside {
   font-weight: 1000;
 }
 
-.music {
+.explain {
   grid-column: 1/4;
   height: 200px;
   border-style: double;
