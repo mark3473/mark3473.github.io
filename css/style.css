@@ -43,8 +43,6 @@ img {
 
 .main-nav a {
   color: #fff;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: #000;
 }
 
 .main-nav a:hover {
